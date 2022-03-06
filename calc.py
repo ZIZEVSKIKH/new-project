@@ -21,4 +21,5 @@ for sequence in range(1, count_sequence + 1):
         elif act == "/":
             answer /= user_num
 
+print("CHANGES")
 print("Ответ:", answer)
